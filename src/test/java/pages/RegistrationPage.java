@@ -2,12 +2,16 @@ package pages;
 
 public class RegistrationPage {
 
+	private String login = "Test";
+
 	public RegistrationPage() {
-		// TODO Auto-generated constructor stub
+
+		System.out.println("Reg");
 	}
 
 	private void regMethod() {
-		// TODO Auto-generated method stub
+
+		System.out.println("Reg");
 
 	}
 
